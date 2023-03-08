@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ProfitHelper (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ProfitHelper (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
